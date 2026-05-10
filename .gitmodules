@@ -1,0 +1,3 @@
+[submodule "AIproject"]
+	path = AIproject
+	url = https://huggingface.co/spaces/RubaKhan242/AIproject
